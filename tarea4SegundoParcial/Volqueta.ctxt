@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Volqueta
+comment1.params=matricula\ modelo\ color\ capacidadCarga
+comment1.target=Volqueta(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=cantidad
+comment2.target=java.lang.String\ cargar(int)
+comment3.params=
+comment3.target=java.lang.String\ mostrarDatos()
+numComments=4

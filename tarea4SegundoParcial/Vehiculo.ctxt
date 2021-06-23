@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Vehiculo
+comment1.params=matricula\ modelo\ color
+comment1.target=Vehiculo(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getMatricula()
+comment3.params=
+comment3.target=java.lang.String\ getModelo()
+comment4.params=
+comment4.target=java.lang.String\ getColor()
+comment5.params=
+comment5.target=java.lang.String\ avanzar()
+comment6.params=
+comment6.target=java.lang.String\ frenar()
+comment7.params=
+comment7.target=java.lang.String\ mostrarDatos()
+numComments=8

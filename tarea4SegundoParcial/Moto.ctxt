@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Moto
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Ejemplo3\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=matricula\ modelo\ color\ cilindraje\ tipo
+comment1.target=Moto(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=double\ calcularValorSoat()
+comment2.text=\r\n\ \ \ \ \ \ \ \ Cilindraje\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Valor\ a\ Pagar\r\n\ \ \ \ \ \ \r\n\ \ \ \ \ \ Menor\ a\ 100cc\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 150$\ //\ tipo\ 1\r\n\ \ \ \ \ \ de\ 100\ cc\ a\ 200cc\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 300$\ //\ tipo\ 1\r\n\ \ \ \ \ \ Mas\ de\ 200cc\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 400$\ //\ tipo\ 1\r\n\ \ \ \ \ \ MotoCarro\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 400$\ //\ tipo\ 2\r\n
+comment3.params=
+comment3.target=java.lang.String\ mostrarDatos()
+numComments=4
